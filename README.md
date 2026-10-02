@@ -1,3 +1,46 @@
+# 🌐 Project Name: My Web Development Journey
+
+A personal tracking log and progress guide for building my new website.
+
+---
+
+## 🗺️ Project Roadmap & Progress Tracker
+
+### 🟥 Phase 1: Setup & Structural Foundation
+- [ ] Initialize the repository and set up the folder structure
+- [ ] Create the core `index.html` file
+- [ ] Generate the HTML5 starter template using Emmet (`!`)
+- [ ] Set up the metadata, character encoding, and website title in the `<head>`
+
+### 🟧 Phase 2: Content & HTML Architecture
+- [ ] Build the structural Semantic HTML tags (`<header>`, `<nav>`, `<main>`, `<footer>`)
+- [ ] Code the navigation bar with text links
+- [ ] Insert the primary headings (`<h1>`, `<h2>`) and text paragraphs (`<p>`)
+- [ ] Embed visual media assets (images with `alt` text, logos, or icons)
+- [ ] Create interactive input elements (forms, buttons, or links)
+
+### 🟨 Phase 3: Design & CSS Styling
+- [ ] Create an external `style.css` file and link it inside the HTML `<head>`
+- [ ] Establish a cohesive color palette (backgrounds, text, and button accents)
+- [ ] Set up typography, font sizes, and text spacing rules
+- [ ] Structure the page layout using Flexbox or CSS Grid
+- [ ] Add interactive hover effects to buttons and navigation links
+
+### 🟩 Phase 4: Final Polish & Deployment
+- [ ] Test the site inside the VS Code **Live Preview** extension
+- [ ] Check for responsive design (making sure it looks good on mobile screens)
+- [ ] Clean up code formatting and remove any empty tags or placeholder text
+- [ ] Commit all final files and push the completed project to GitHub
+- [ ] Launch the website online using **GitHub Pages**
+
+
+
+
+
+
+
+**<u>CURRENT HTML EXAMPLE BELOW</u>**
+
 # Hi, I'm [Your Name]! 👋
 ### [Your Role / Title, e.g., Full-Stack Software Engineer]
 
